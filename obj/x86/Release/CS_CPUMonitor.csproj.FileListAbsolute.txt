@@ -1,0 +1,9 @@
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\bin\Release\CS_CPUMonitor.exe
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\bin\Release\CS_CPUMonitor.pdb
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\CS_CPUMonitor.Form1.resources
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\CS_CPUMonitor.Properties.Resources.resources
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\CS_CPUMonitor.exe
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_CPUMonitor\obj\x86\Release\CS_CPUMonitor.pdb
